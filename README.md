@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;A+Software+Developer;A+Python+Developer;A+Web+Developer;Explorer+Of+Technologies;)](https://git.io/typing-svg)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![AI](https://img.shields.io/badge/AI-Enthusiast-green)
-![Web Development](https://img.shields.io/badge/Web%20Development)
+![Web Development]([https://img.shields.io/badge/Web%20Development](https://img.shields.io/badge/Web%20Development-React%2C%20Node.js-brightgreen))
 
 
 
