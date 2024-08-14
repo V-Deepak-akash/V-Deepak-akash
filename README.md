@@ -39,11 +39,9 @@ deepakV = {
             "ux_design": ["responsive design, user experience"],
         }
     },
-    "contact": {
-        "website": "yourwebsite.com",
-        "email": "your.email@example.com",
-        "linkedin": "@yourlinkedin",
-        "twitter": "@yourtwitter",
+    "contact": 
+        "email": "v.deepakakash@gmail.com.com",
+        "linkedin": "@deepak-akash",
     },
     "return": 0
 }
@@ -61,7 +59,7 @@ Hello stranger! DPK is serving here...
  
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/deepak-akash)
+- **LinkedIn:** [deepak-akash](https://www.linkedin.com/in/deepak-akash)
 - **Email:** [v.deepakakash@gmail.com](mailto:v.deepakakash@gmail.com)
 
 ## 📈 GitHub Stats
