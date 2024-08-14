@@ -5,9 +5,22 @@
 ![AI](https://img.shields.io/badge/AI-Enthusiast-green)
 ![Web Development](https://img.shields.io/badge/Web%20Development)
 
-## 🧩 About Me
 
-```python
+
+## 🌟 Some of My Projects
+
+- [Project One](https://github.com/yourusername/project-one) - A brief description of what it does.
+- [Project Two](https://github.com/yourusername/project-two) - A brief description of what it does.
+
+## 🚀 Skills & Technologies
+
+- **Languages:** Python, C++, HTML, CSS,JavaScript, PHP, SQL
+- **Frameworks:** Django, Flask, React
+- **Tools:** Git, Docker, VS Code
+
+# 🧩 About Me
+
+```
 deepakV = {
     "pronouns": "He/Him",
     "codename": "deepakV",
@@ -33,18 +46,17 @@ deepakV = {
         "twitter": "@yourtwitter",
     },
     "return": 0
-}```
+}
+```
+##
+```  ┌──(kali@kali)-[~/]
+└─$ python3 DPK.py
 
-## 🌟 Some of My Projects
+Hello stranger! DPK is serving here...
 
-- [Project One](https://github.com/yourusername/project-one) - A brief description of what it does.
-- [Project Two](https://github.com/yourusername/project-two) - A brief description of what it does.
-
-## 🚀 Skills & Technologies
-
-- **Languages:** Python, C++, HTML, CSS,JavaScript, PHP, SQL
-- **Frameworks:** Django, Flask, React
-- **Tools:** Git, Docker, VS Code
+┌──(kali@kali)-[~/]
+└─$
+```
 
  
 ## 📫 How to Reach Me
@@ -55,7 +67,3 @@ deepakV = {
 ## 📈 GitHub Stats
 
 ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-
-
-
