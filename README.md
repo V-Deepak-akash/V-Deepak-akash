@@ -11,10 +11,11 @@
 
 ## 🚀 Skills & Technologies
 
-- **Languages:** Python, JavaScript, HTML, CSS
+- **Languages:** Python, C++, HTML, CSS,JavaScript, PHP, SQL
 - **Frameworks:** Django, Flask, React
 - **Tools:** Git, Docker, VS Code
-- 
+
+ 
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/deepak-akash)
