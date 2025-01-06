@@ -54,7 +54,7 @@ Hello stranger! DPK is serving here...
 
 - **LinkedIn:** [deepak-akash](https://www.linkedin.com/in/deepak-akash)
 - **Email:** [v.deepakakash@gmail.com](mailto:v.deepakakash@gmail.com)
-- **Instagram:** [_dee.pk_](https://www.instagram.com/_dee.pk_)
+- **Instagram:** [__dee.pk__](https://www.instagram.com/_dee.pk_)
 
 ## 📈 GitHub Stats
 
